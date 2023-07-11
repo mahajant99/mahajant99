@@ -49,7 +49,7 @@ printf "Hello world!"
 
 <div>
   <a href="https://github.com/mahajant99">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mahajant99&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-d7guftfzy-mahajant99.vercel.app/api?username=mahajant99&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahajant99&layout=compact&langs_count=8&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"/>
 </div>
 
